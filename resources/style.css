@@ -88,6 +88,8 @@ html {
     width: 100%;
     min-height: 500px;
     background-image: url(./images/img-locations-background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .address-container {
