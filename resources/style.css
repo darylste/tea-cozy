@@ -131,3 +131,13 @@ html {
 
     }
 }
+
+@media only screen and (max-width: 710px) {
+    .location-container {
+        margin-bottom: 15px;
+    }
+
+    .locations h2 {
+        color: black;
+    }
+}
